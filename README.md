@@ -5,7 +5,7 @@ Subscribe to a platform event using jsForce
 ## Setup
 
 ```
-git clone jsforce-platform-events && cd jsforce-platform-events
+git clone git@github.com:trevorscott/jsforce-platform-events.git && cd jsforce-platform-events
 npm install
 ```
 
