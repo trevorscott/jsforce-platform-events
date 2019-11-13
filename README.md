@@ -14,6 +14,7 @@ Create a `.env` file in the root directory of this project and populate it with 
 ```
 SF_USERNAME=you@salesforce.com
 SF_PASSWORD_AND_TOKEN=password_with_appended_security_token
+EVENT_TO_SUBSCRIBE_TO=LightningUriEventStream
 ```
 
 ## Run
