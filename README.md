@@ -1,6 +1,6 @@
 # jsforce-platform-events
 
-Subscribe to a platform event using jsForce
+Subscribe to a platform event using jsForce. The app logs incoming events.
 
 ## Setup
 
